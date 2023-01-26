@@ -1,2 +1,4 @@
 1. Order pizza
 2. Paid for pizza
+3. Eat the pizza
+4. Rex my dog wanted some
